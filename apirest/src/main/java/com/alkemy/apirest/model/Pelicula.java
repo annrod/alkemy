@@ -6,6 +6,9 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import java.util.Date;
 
+/**
+ * @author Ana_Rodriguez
+**/
 @Entity
 @Table(name="peliculas")
 public class Pelicula {
